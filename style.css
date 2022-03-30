@@ -1,0 +1,66 @@
+.pic{
+    background-image: url("https://th.bing.com/th/id/OIP.g-4QFcuO4wo5cyYFlQRZ2wHaFP?w=264&h=187&c=7&r=0&o=5&dpr=1.88&pid=1.7");
+    background-position:center;
+    background-size: cover;
+
+}
+
+.login{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 200px;
+    border-radius: 50px;
+    background-color:#c266ff00;
+    
+    
+    
+}
+
+.line{
+    background-color: #c366ff;
+    height: 5px;
+    width: 200px;
+}
+
+#icon{
+    height: 750px;
+    width: max-content;
+    
+}
+
+#button{
+    background-color: rgba(216,1,245,1);
+    margin-top: 60px;
+    height: 50px;
+    border-radius: 15px;
+    width: 150px;
+    font-size: 20px;
+}
+
+#player1{
+    border-radius: 15px;
+    width: fit-content;
+   
+}
+
+#player2{
+    border-radius: 15px;
+    width: fit-content;
+    
+}
+
+.text{
+    color: rgb(68, 4, 128);
+    font-size: 50px;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+
